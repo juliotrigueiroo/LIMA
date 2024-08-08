@@ -1,0 +1,12 @@
+EXERCÍCIO 1 - CARTEIRAS: 
+ENTIDADE 1 - cidade
+ENTIDADE 2 - campus
+ENTIDADE 3 - bloco
+ENTIDADE 4 - sala
+
+
+EXERCÍCIO 2 - MERCADO: 
+ENTIDADE 1 - prateleira 
+ENTIDADE 2 - produto
+ENTIDADE 3 - preço
+
