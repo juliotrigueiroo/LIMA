@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(61, 50, 146);
+}
+
+img{
+    width:80% ;      /* Largura da imagem */
+    height:80% ;     /* Altura da imagem */
+    opacity: 75%;
+    border: 8px solid;
+    border-color:#e5e509
+}
+
+#hipopotamo{
+    text-align: center;
+    zoom:1;
+}
+#hipopotamo:hover{
+    zomm:1.25;
+}
+
+
+
+h1{
+    text-align: center;
+    color: rgb(26, 208, 214);
+}
+
+h2{
+    color: rgb(83, 218, 25);
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(230, 28, 28);
+}
